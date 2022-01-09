@@ -111,7 +111,7 @@ strike {
 
 .photo-bg {
     /* background-image: url(assets/background.jpg); */
-    background-image: url(https://i1.xktu.xyz/2021/10/16/ea0701016100229.png);
+    background-image: url('https://i1.xktu.xyz/2021/10/16/ea0701016100229.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
